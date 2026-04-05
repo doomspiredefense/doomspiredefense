@@ -1,5 +1,13 @@
-<h5 align="center"
+<h3 align="center"
 
+${\textsf{\color{#ff5283} 𝑪𝒐𝒎𝒆 𝒐𝒏, 𝑳𝒂𝒅𝒚 𝑳𝒖𝒄𝒌! }}$ 
+
+<h5 align="center"
+  
+${\textsf{\color{#ff2b72} さあ、運よ味方してくれ! }}$
+
+<h5 align="center"
+  
   ![](https://komarev.com/ghpvc/?username=fleta-z&color=ff2b72&style=plastic&label=⠀♡ㅤcharmsㅤㅤ)
 
   ![](https://i.postimg.cc/Dm375J9B/Untitled200-20260405161038.png)
