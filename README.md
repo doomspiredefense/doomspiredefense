@@ -18,7 +18,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1000&pause=500&color=E0E0D1&center=true&multiline=true&repeat=false&width=435&height=100&lines=will+you+be+my+puppet%3F;1.+Yes;2.+Yes)](https://git.io/typing-svg)
 
 
-<h1 align="center"
   
  <img src="https://file.garden/ad74Ygx5M13uwIEb/illu%20midl%20divider.png" width="500">
 
