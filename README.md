@@ -29,7 +29,7 @@ ${\textsf{\color{#0c0a4a} i }}$ ${\textsf{\color{#141485} 𝖿orgo𝗍 }}$ ${\te
     <img src="https://file.garden/ad74Ygx5M13uwIEb/rentry.png" width="200">
   <a href="https://illusionary.atabook.org/">
     <img src="https://file.garden/ad74Ygx5M13uwIEb/ata%20book.png" width="200">
-    <a href="https://1llusionary.straw.page/">
+    <a href="https://theperfectpuppet.straw.page/">
     <img src="https://file.garden/ad74Ygx5M13uwIEb/strawpage.png" width="200">
 </a>
 </p>
