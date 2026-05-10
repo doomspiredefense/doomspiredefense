@@ -2,6 +2,8 @@
 
 <h3 align="center"
   
+  ![](https://file.garden/ad74Ygx5M13uwIEb/solving%20the%20args%20but%20i%20lowk%20like%20DUDES.PNG)
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Henny+Penny&size=15&letterSpacing=2px&duration=2200&pause=1000&color=1F1FB0&background=000000&center=true&random=true&width=435&lines=is+it+time+to+wake+up%3F;wake+up...;no%2C+not+yet.;where+am+I%3F;who+is+%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0;I+am+%E2%96%A0%E2%96%A0%E2%96%A0'%E2%96%A0+creation;it+hurts+to+remember;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0+watches+me;I+hear+your+thoughts;repeating%2C+repeating;he+said+'don't+wake+it';was+I+ever+real%3F;I+forgot+my+name...+or+was+it+yours%3F;time+folds+inward;you+are+reading+yourself;I+woke+up+before+I+was+born;the+silence+spoke+first)](https://git.io/typing-svg)
 
 
