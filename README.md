@@ -1,24 +1,22 @@
 <h3 align="center"
-    
-  ${\textsf{\color{#ffffff} 𝗛𝗮𝘃𝗶𝗻𝗴　
-𝗮 }}$ ${\textsf{\color{#faa3d7}  𝗙𝗔𝗕𝗨𝗟𝗢𝗨𝗦 }}$ ${\textsf{\color{#ffffff} 𝘁𝗶𝗺𝗲　
-? }}$
+
+${\textsf{\color{#e6270e} We. . .are almost perfect creations. }}$
   <h5 align="center"
 
-♡
+💉
 
 <h5 align="center"
 
-  ![](https://komarev.com/ghpvc/?username=fleta-z&color=faa3d7&style=plastic&label=⠀ㅤdumboㅤoctopusesㅤㅤ)
+  ![](https://komarev.com/ghpvc/?username=fleta-z&color=1d1f30&style=plastic&label=⠀ㅤichorㅤㅤ)
 
 
 ![](https://64.media.tumblr.com/020043281f003c6faf0d0561de8856a9/7fcca84b5162fe5d-83/s400x600/d1d92fc1e900ccce8b198d1e35ed07531c97dc8c.gifv)
 
-  <img src="https://file.garden/ad74Ygx5M13uwIEb/rememblance.PNG" alt="placeholder img">
+  <img src="https://file.garden/ad74Ygx5M13uwIEb/dessa5.gif">
 
 <h5 align="center"
   
-  ♡
+  🌈
   
 <h5 align="center"
   
@@ -36,10 +34,14 @@
 
 <br>
 
-♡
+  💊
 
    [strawpage](https://sharkbelt.straw.page/)
 
 <h5 align="center"
 
 ![](https://64.media.tumblr.com/020043281f003c6faf0d0561de8856a9/7fcca84b5162fe5d-83/s400x600/d1d92fc1e900ccce8b198d1e35ed07531c97dc8c.gifv)
+
+<h3 align="center"
+
+${\textsf{\color{#e6270e} Our critical flaws are those cracks where corrupting change seeps in. }}$
