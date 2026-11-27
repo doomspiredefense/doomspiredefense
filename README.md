@@ -33,8 +33,8 @@ ${\textsf{\color{#fa715c} We }}$ ${\textsf{\color{#fa8e5c} ... }}$ ${\textsf{\co
 ${\textsf{\color{#fa715c} 𝙊𝙪𝙧 }}$ ${\textsf{\color{#fa8e5c} 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 }}$ ${\textsf{\color{#facb5c} 𝗳𝗹𝗮𝘄𝘀 }}$ ${\textsf{\color{#64fa5c} 𝗮𝗿𝗲 }}$ ${\textsf{\color{#5ce5fa} 𝘁𝗵𝗼𝘀𝗲 }}$ ${\textsf{\color{#5c7efa} 𝗰𝗿𝗮𝗰𝗸𝘀 }}$ ${\textsf{\color{#815cfa} 𝘄𝗵𝗲𝗿𝗲 }}$ ${\textsf{\color{#fa5ce8} 𝗰𝗼𝗿𝗿𝘂𝗽𝘁𝗶𝗻𝗴 }}$ ${\textsf{\color{#fa715c} 𝗰𝗵𝗮𝗻𝗴𝗲 }}$ ${\textsf{\color{#fa8e5c} 𝘀𝗲𝗲𝗽𝘀 }}$ ${\textsf{\color{#facb5c} 𝗶𝗻. }}$
 
 <h5 align="center"
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31poogvrqn3efrvp5ppe3kaump6q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=faa3d7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31poogvrqn3efrvp5ppe3kaump6q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ff5c64&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
