@@ -9,7 +9,7 @@
 
 <h5 align="center"
 
-  ![](https://komarev.com/ghpvc/?username=fleta-z&color=faa3d7&style=plastic&label=⠀ㅤfabulous!~ㅤㅤ)
+  ![](https://komarev.com/ghpvc/?username=fleta-z&color=faa3d7&style=plastic&label=⠀ㅤdumboㅤoctopusesㅤㅤ)
 
 
 ![](https://64.media.tumblr.com/020043281f003c6faf0d0561de8856a9/7fcca84b5162fe5d-83/s400x600/d1d92fc1e900ccce8b198d1e35ed07531c97dc8c.gifv)
