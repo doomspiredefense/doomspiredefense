@@ -1,6 +1,6 @@
 <h3 align="center"
 
-${\textsf{\color{#e6270e} We. . .are almost perfect creations. }}$
+${\textsf{\color{#e6270e} g }}$ ${\textsf{\color{#e6440e} r }}$ ${\textsf{\color{#e65a0e} a }}$ ${\textsf{\color{#e6680e} d }}$ ${\textsf{\color{#e6900e} i }}$ ${\textsf{\color{#f7b20f} e }}$ ${\textsf{\color{#fad11b} n }}$ ${\textsf{\color{#faef1b} t }}$
   <h5 align="center"
 
 💉
