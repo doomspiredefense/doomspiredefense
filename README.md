@@ -1,6 +1,6 @@
 <h3 align="center"
 
-${\textsf{\color{#e6270e} i give up bro}}$ 
+${\textsf{\color{#fa715c} We }}$ ${\textsf{\color{#fa8e5c} ... }}$ ${\textsf{\color{#facb5c} 𝗮𝗿𝗲 }}$ ${\textsf{\color{#64fa5c} 𝗮𝗹𝗺𝗼𝘀𝘁  }}$ ${\textsf{\color{#5c7efa} 𝙥𝙚𝙧𝙛𝙚𝙘𝙩 }}$ ${\textsf{\color{#815cfa} 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻𝘀. }}$
   <h5 align="center"
 
 💉
