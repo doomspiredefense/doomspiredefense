@@ -38,7 +38,7 @@
 
 ♡
 
-   prns.cc (wip)
+   [strawpage](https://sharkbelt.straw.page/)
 
 <h5 align="center"
 
